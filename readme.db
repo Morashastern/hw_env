@@ -1,0 +1,4 @@
+#-git CLONE
+#-install and open virtualenv
+#-install requirements
+# run program in terminal using the command "run flask". 
